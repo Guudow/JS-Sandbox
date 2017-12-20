@@ -1,5 +1,4 @@
 
-
 // String
 const name = 'John G';
 //number
